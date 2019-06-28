@@ -1703,6 +1703,15 @@ a.lightbox img:hover {
 	}
 }
 @media(max-width:480px){
+    .banner-btm-grid {
+        position: absolute;
+        width: 90%;
+        top: 12em;
+        left:5%;
+    }
+    .banner{
+        margin-bottom: 12em!important;
+    }
 	.logo h1 a {
 		font-size: 32px;
 	}
