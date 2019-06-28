@@ -1,9 +1,4 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
+
 html, body{
     font-size: 100%;
 	font-family: 'Open Sans', sans-serif;
@@ -40,7 +35,7 @@ body a {
 	-ms-transition:.5s ease-in-out;
 }
 .banner{
-	background:url(../images/banner.jpg) no-repeat 0px 0px;
+	background:url(../images/mybanner.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -49,15 +44,6 @@ body a {
 	min-height:680px;
 	    position: relative;
 		margin-bottom: 10.6em
-}
-.banner1{
-	background:url(../images/banner.jpg) no-repeat 0px 0px;
-	background-size:cover;
-	-webkit-background-size:cover;
-	-moz-background-size:cover;
-	-o-background-size:cover;
-	-ms-background-size:cover;
-	min-height:500px;
 }
 .header{
 	padding:5em 0 10em;
@@ -102,10 +88,10 @@ body a {
 }
 .name p {
     text-align: center;
-    font-size: 14px;
+    font-size: 20px;
     margin: 10px 0 15px;
     letter-spacing: 11px;
-    color: #ccc;
+    color: #fff;
 }
 .container.banner-drop.nav-open{
   margin-top: 8em;
@@ -363,13 +349,17 @@ ul.top-links li a i.fa-google-plus:hover{
     position: absolute;
     width: 70%;
     top: 31em;
-    left: 15.3em;
+    left:15%;
+    
+
 }
 .banner-left-wthree {
     float: left;
     width: 100%;
-    background: #0c0c0c;
+    background: #516C77;
     padding: 30px 50px;
+    border-radius:3px;
+    box-shadow: -1px 5px 8px #ccc
 }
 .banner-left-wthree img {
     margin: 0 auto;
@@ -1015,7 +1005,7 @@ a.lightbox img:hover {
 	.banner {
 		min-height: 630px;
 		margin-bottom: 10.9em;
-		    background: url(../images/banner.jpg) no-repeat -62px 0px;
+		background: url(../images/mybanner.jpg) no-repeat 0px 0px;
 		background-size: cover;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
@@ -1117,7 +1107,7 @@ a.lightbox img:hover {
 	.banner {
 		min-height: 578px;
 		margin-bottom: 10.5em;
-		background: url(../images/banner.jpg) no-repeat -120px 0px;
+		background: url(../images/mybanner.jpg) no-repeat 0px 0px;
 		background-size: cover;
 	}
 	.work-left {
@@ -1201,7 +1191,7 @@ a.lightbox img:hover {
 	.banner {
 		min-height: 538px;
 		margin-bottom: 9.8em;
-		background: url(../images/banner.jpg) no-repeat -96px 0px;
+		background: url(../images/mybanner.jpg) no-repeat 0px 0px;
 		background-size: cover;
 	}
 	.banner-right-w3-agileits iframe {
@@ -1259,7 +1249,7 @@ a.lightbox img:hover {
 	.banner {
 		min-height: 490px;
 		margin-bottom: 10em;
-		background: url(../images/banner.jpg) no-repeat -45px 0px;
+		background: url(../images/mybanner.jpg) no-repeat 0px 0px;
 		background-size: cover;
 	}
 	p.pop {
@@ -1287,7 +1277,7 @@ a.lightbox img:hover {
 	.banner {
 		min-height: 470px;
 		margin-bottom: 9.96em;
-		background: url(../images/banner.jpg) no-repeat -26px 0px;
+		background: url(../images/mybanner.jpg) no-repeat 0px 0px;
 		background-size: cover;
 	}
 	.banner-btm-grid-w3ls {
@@ -1384,7 +1374,7 @@ a.lightbox img:hover {
 	.banner {
 		min-height: 435px;
 		margin-bottom: 9.2em;
-		background: url(../images/banner.jpg) no-repeat -33px 0px;
+		background: url(../images/mybanner.jpg) no-repeat 0px 0px;
 		background-size: cover;
 	}
 	.banner-right-w3-agileits iframe {
@@ -1446,7 +1436,7 @@ a.lightbox img:hover {
 		left: 22.5%;
 	}
 	.banner {
-		background: url(../images/banner.jpg) no-repeat -100px 0px;
+		background: url(../images/mybanner.jpg) no-repeat 0px 0px;
 		background-size: cover;
 		    margin-bottom: 8.95em;
 	}
@@ -1503,7 +1493,7 @@ a.lightbox img:hover {
 		top: 16em;
 	}
 	.banner {
-		background: url(../images/banner.jpg) no-repeat -20px 0px;
+		background: url(../images/mybanner.jpg) no-repeat 0px 0px;
 		background-size: cover;
 		margin-bottom: 12.45em;
 		min-height: 355px;
@@ -1541,7 +1531,7 @@ a.lightbox img:hover {
 		width: 30%;
 	}
 	.banner {
-		background: url(../images/banner.jpg) no-repeat -60px 0px;
+		background: url(../images/mybanner.jpg) no-repeat 0px 0px;
 		background-size: cover;
 		margin-bottom: 32.8em;
 	}
@@ -1902,7 +1892,7 @@ a.lightbox img:hover {
 	}
 	.banner {
 		margin-bottom: 29.79em;
-		background: url(../images/banner.jpg) no-repeat -25px 0px;
+		background: url(../images/mybanner.jpg) no-repeat 0px 0px;
 		background-size: cover;
 		min-height: 205px;
 	}
@@ -1971,7 +1961,7 @@ a.lightbox img:hover {
 	}
 	.banner {
 		margin-bottom: 30.45em;
-		background: url(../images/banner.jpg) no-repeat -16px 0px;
+		background: url(../images/mybanner.jpg) no-repeat 0px 0px;
 		background-size: cover;
 		min-height: 192px;
 	}
@@ -2028,7 +2018,7 @@ a.lightbox img:hover {
 	}
 	.banner {
 		margin-bottom: 29.2em;
-		background: url(../images/banner.jpg) no-repeat -5px 0px;
+		background: url(../images/mybanner.jpg) no-repeat 0px 0px;
 		background-size: cover;
 		min-height: 160px;
 	}
